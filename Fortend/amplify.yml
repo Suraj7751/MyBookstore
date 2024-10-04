@@ -6,11 +6,11 @@ frontend:
         - npm ci
     build:
       commands:
-        - npm run build
+        - npm run build  # This runs the Vite build
   artifacts:
-    baseDirectory: build  # This is the folder where React outputs the build files (default is build/)
+    baseDirectory: dist  # Make sure this points to the dist directory
     files:
-      - '**/*'
+      - '**/*'           # This includes all files in the dist directory
   cache:
     paths:
-      - node_modules/**/*  # Caches node_modules for faster builds
+      - node_modules/**/*

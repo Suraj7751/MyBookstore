@@ -49,7 +49,7 @@ function Freebook() {
       <div className="max-w-screen-2xl container mx-auto md:px-20 px-4">
         <div>
           <h1 className="font-semibold text-xl pd-2">Free Offered Course</h1>
-          <p>A bookstore is a haven for book lovers</p>
+          <p>Offer is not Available</p>
         </div>
 
         <div>

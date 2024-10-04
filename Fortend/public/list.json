@@ -45,7 +45,7 @@
 
     {
         "id":6,
-        "name": "Story Book",
+        "name": "Scienc Book",
         "title": "A bookstore is a haven for book lovers.",
         "Price":0,
         "catagory":"free",
@@ -56,7 +56,7 @@
 
     {
         "id":7,
-        "name": "Story Book",
+        "name": "Mystery Book",
         "title": "A bookstore is a haven for book lovers.",
         "Price":0,
         "catagory":"free",
@@ -67,7 +67,7 @@
 
     {
         "id":8,
-        "name": "Story Book",
+        "name": "Classic Book",
         "title": "A bookstore is a haven for book lovers.",
         "Price":0,
         "catagory":"free",
@@ -78,9 +78,9 @@
 
     {
         "id":9,
-        "name": "Stor Book",
+        "name": "Fairy Book",
         "title": "A bookstore is a haven for book lovers.",
-        "Price":100,
+        "Price":0,
         "catagory":"free",
         "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1727774650~exp=1727778250~hmac=e5b948d7a07c1be5593475292187f1b462cbedbcccbdec87be21bf996b0c2df5&w=740"
 
@@ -91,7 +91,7 @@
         "id":10,
         "name": "horrer Book",
         "title": "A bookstore is a haven for book lovers.",
-        "Price":55,
+        "Price":0,
         "catagory":"ghost",
         "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1727774650~exp=1727778250~hmac=e5b948d7a07c1be5593475292187f1b462cbedbcccbdec87be21bf996b0c2df5&w=740"
 
@@ -102,7 +102,7 @@
         "id":11,
         "name": "Comedy Book",
         "title": "A bookstore is a haven for book lovers.",
-        "Price":52,
+        "Price":0,
         "catagory":"fre",
         "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1727774650~exp=1727778250~hmac=e5b948d7a07c1be5593475292187f1b462cbedbcccbdec87be21bf996b0c2df5&w=740"
 
